@@ -1,0 +1,6 @@
+apiVersion: codecentric.de/v1alpha1
+kind: ChaosService
+metadata:
+  name: cc-chaos
+spec:
+  skonprefix: test
